@@ -1,3 +1,5 @@
 nama    : Aswatil Hasnah
 nim     : 21101049
+matakul : Cloud Computing
+jam kul : Rabu, 19:50 wita
 
